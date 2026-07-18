@@ -3,7 +3,6 @@ Flower species image classifier built with transfer learning on MobileNetV2, com
 <h1 align="center">🌸 Flower Image Classification with Transfer Learning (MobileNetV2)</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/MobileNetV2-Transfer_Learning-blue?style=flat-square"/>
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>

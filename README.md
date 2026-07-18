@@ -9,7 +9,7 @@ Flower species image classifier built with transfer learning on MobileNetV2, com
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
 </p>
 
-![alt text](image-1.png)
+<img width="557" height="467" alt="image" src="https://github.com/user-attachments/assets/b541e19e-4cc5-4eed-bff7-bdeaea3db460" />
 
 ---
 
